@@ -3,7 +3,7 @@
 ### About me 👀
 
 - 🎯 Frontend Developer | Majoring in Software Engineering
-- 🤔 Writting blogs on [deprecated personal site](https://rollingegg.github.io/), on [**development log**](https://rollingegg.notion.site/97114708ed38479080863c150dadc369?v=cf224164bba745efa0000367cf9c3912) **now**
+- 🤔 Writting blogs on [deprecated personal site](https://rollingegg.github.io/), on [**小小天地**](https://rollingegg.notion.site) **now**
 
 [![Rollingegg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rollingegg&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
